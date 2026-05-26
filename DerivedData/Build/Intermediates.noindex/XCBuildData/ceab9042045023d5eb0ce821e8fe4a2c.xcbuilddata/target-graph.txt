@@ -1,0 +1,2 @@
+Target dependency graph (1 target)
+Target 'Slots Hub Helper' in project 'Slots Hub Helper' (no dependencies)
